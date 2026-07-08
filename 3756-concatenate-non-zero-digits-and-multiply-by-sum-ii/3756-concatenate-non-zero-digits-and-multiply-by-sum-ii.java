@@ -1,10 +1,10 @@
 class Solution {
     int mod=(int)1e9+7;
-    class Pair{
+    class Tri{
         long num;
         long sum;
         int cnt;
-        Pair(long num,long sum,int cnt){
+        Tri(long num,long sum,int cnt){
             this.num=num;
             this.sum=sum;
             this.cnt=cnt;
@@ -12,15 +12,15 @@ class Solution {
     }
     public int[] sumAndMultiply(String s, int[][] queries) {
         int n=s.length();
-        Pair[] compute=new Pair[n+1];
-        compute[0]=new Pair(0L,0L,0);
+        Tri[] compute=new Tri[n+1];
+        compute[0]=new Tri(0L,0L,0);
         long nm=0,sm=0;
         int cnt=0;
         for(int i=0;i<n;i++){
             if(s.charAt(i)!='0')cnt++;
             if(s.charAt(i)!='0')nm=(nm*10L+(s.charAt(i)-'0'))%mod;
             sm+=(s.charAt(i)-'0');
-            compute[i+1]=new Pair(nm,sm,cnt);
+            compute[i+1]=new Tri(nm,sm,cnt);
         }
         int[] ans=new int[queries.length];
         int ind=0;
