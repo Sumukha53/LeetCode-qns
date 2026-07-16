@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [0934-shortest-bridge](https://github.com/Sumukha53/LeetCode-qns/tree/master/0934-shortest-bridge) |
 | [1288-remove-covered-intervals](https://github.com/Sumukha53/LeetCode-qns/tree/master/1288-remove-covered-intervals) |
+| [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumukha53/LeetCode-qns/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumukha53/LeetCode-qns/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Design
 |  |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumukha53/LeetCode-qns/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
