@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/Sumukha53/LeetCode-qns/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/Sumukha53/LeetCode-qns/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sumukha53/LeetCode-qns/tree/master/0785-is-graph-bipartite) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/Sumukha53/LeetCode-qns/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/Sumukha53/LeetCode-qns/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sumukha53/LeetCode-qns/tree/master/0785-is-graph-bipartite) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/Sumukha53/LeetCode-qns/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sumukha53/LeetCode-qns/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Sumukha53/LeetCode-qns/tree/master/0841-keys-and-rooms) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sumukha53/LeetCode-qns/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sumukha53/LeetCode-qns/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [0934-shortest-bridge](https://github.com/Sumukha53/LeetCode-qns/tree/master/0934-shortest-bridge) |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sumukha53/LeetCode-qns/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [0934-shortest-bridge](https://github.com/Sumukha53/LeetCode-qns/tree/master/0934-shortest-bridge) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
@@ -129,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sumukha53/LeetCode-qns/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumukha53/LeetCode-qns/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sliding Window
@@ -165,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
