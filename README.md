@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/Sumukha53/LeetCode-qns/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0743-network-delay-time](https://github.com/Sumukha53/LeetCode-qns/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/Sumukha53/LeetCode-qns/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0743-network-delay-time](https://github.com/Sumukha53/LeetCode-qns/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0100-same-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0100-same-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -189,5 +193,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
