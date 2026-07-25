@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sumukha53/LeetCode-qns/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sumukha53/LeetCode-qns/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Sumukha53/LeetCode-qns/tree/master/0841-keys-and-rooms) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumukha53/LeetCode-qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumukha53/LeetCode-qns/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3532-path-existence-queries-in-a-graph-i) |
