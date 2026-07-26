@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sumukha53/LeetCode-qns/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sumukha53/LeetCode-qns/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumukha53/LeetCode-qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumukha53/LeetCode-qns/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sumukha53/LeetCode-qns/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sumukha53/LeetCode-qns/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumukha53/LeetCode-qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumukha53/LeetCode-qns/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sumukha53/LeetCode-qns/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sumukha53/LeetCode-qns/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumukha53/LeetCode-qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumukha53/LeetCode-qns/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Sumukha53/LeetCode-qns/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Sumukha53/LeetCode-qns/tree/master/0841-keys-and-rooms) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sumukha53/LeetCode-qns/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumukha53/LeetCode-qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumukha53/LeetCode-qns/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3532-path-existence-queries-in-a-graph-i) |
