@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sumukha53/LeetCode-qns/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Sumukha53/LeetCode-qns/tree/master/2336-smallest-number-in-infinite-set) |
 ## Shortest Path
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Sumukha53/LeetCode-qns/tree/master/0460-lfu-cache) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Sumukha53/LeetCode-qns/tree/master/2336-smallest-number-in-infinite-set) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Design
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Sumukha53/LeetCode-qns/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Sumukha53/LeetCode-qns/tree/master/0460-lfu-cache) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Sumukha53/LeetCode-qns/tree/master/2336-smallest-number-in-infinite-set) |
 ## Enumeration
 |  |
 | ------- |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Sumukha53/LeetCode-qns/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
