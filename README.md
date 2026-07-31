@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/Sumukha53/LeetCode-qns/tree/master/0130-surrounded-regions) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0743-network-delay-time](https://github.com/Sumukha53/LeetCode-qns/tree/master/0743-network-delay-time) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0783-minimum-distance-between-bst-nodes) |
