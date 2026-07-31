@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumukha53/LeetCode-qns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0130-surrounded-regions](https://github.com/Sumukha53/LeetCode-qns/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sumukha53/LeetCode-qns/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumukha53/LeetCode-qns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sumukha53/LeetCode-qns/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumukha53/LeetCode-qns/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
