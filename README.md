@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sumukha53/LeetCode-qns/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sumukha53/LeetCode-qns/tree/master/1288-remove-covered-intervals) |
+| [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukha53/LeetCode-qns/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukha53/LeetCode-qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumukha53/LeetCode-qns/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0337-house-robber-iii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sumukha53/LeetCode-qns/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumukha53/LeetCode-qns/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sliding Window
 |  |
@@ -280,4 +283,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumukha53/LeetCode-qns/tree/master/0004-median-of-two-sorted-arrays) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
