@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumukha53/LeetCode-qns/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/Sumukha53/LeetCode-qns/tree/master/0130-surrounded-regions) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Sumukha53/LeetCode-qns/tree/master/0257-binary-tree-paths) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumukha53/LeetCode-qns/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/Sumukha53/LeetCode-qns/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumukha53/LeetCode-qns/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Sumukha53/LeetCode-qns/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0337-house-robber-iii) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumukha53/LeetCode-qns/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Sumukha53/LeetCode-qns/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0337-house-robber-iii) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumukha53/LeetCode-qns/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Sumukha53/LeetCode-qns/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Sumukha53/LeetCode-qns/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
