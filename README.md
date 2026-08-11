@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
+| [1834-single-threaded-cpu](https://github.com/Sumukha53/LeetCode-qns/tree/master/1834-single-threaded-cpu) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukha53/LeetCode-qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumukha53/LeetCode-qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumukha53/LeetCode-qns/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sumukha53/LeetCode-qns/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
+| [1834-single-threaded-cpu](https://github.com/Sumukha53/LeetCode-qns/tree/master/1834-single-threaded-cpu) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Sumukha53/LeetCode-qns/tree/master/2336-smallest-number-in-infinite-set) |
 ## Shortest Path
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Sumukha53/LeetCode-qns/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/Sumukha53/LeetCode-qns/tree/master/1288-remove-covered-intervals) |
+| [1834-single-threaded-cpu](https://github.com/Sumukha53/LeetCode-qns/tree/master/1834-single-threaded-cpu) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumukha53/LeetCode-qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
