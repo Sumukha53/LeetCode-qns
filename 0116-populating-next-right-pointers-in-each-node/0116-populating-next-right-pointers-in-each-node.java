@@ -29,7 +29,6 @@ class Solution {
         while(!q.isEmpty()){
             int n=q.size();
             Node prev=null;
-            System.out.println(n);
             while(n-->0){
                 Node top=q.poll();
                 if(prev!=null){
