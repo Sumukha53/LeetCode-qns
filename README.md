@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Sumukha53/LeetCode-qns/tree/master/0563-binary-tree-tilt) |
 | [0623-add-one-row-to-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0623-add-one-row-to-tree) |
+| [0687-longest-univalue-path](https://github.com/Sumukha53/LeetCode-qns/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/Sumukha53/LeetCode-qns/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Sumukha53/LeetCode-qns/tree/master/0563-binary-tree-tilt) |
 | [0623-add-one-row-to-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0654-maximum-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Sumukha53/LeetCode-qns/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0814-binary-tree-pruning) |
 | [0993-cousins-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0993-cousins-in-binary-tree) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Sumukha53/LeetCode-qns/tree/master/0563-binary-tree-tilt) |
 | [0623-add-one-row-to-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0654-maximum-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Sumukha53/LeetCode-qns/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0814-binary-tree-pruning) |
 | [0993-cousins-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0993-cousins-in-binary-tree) |
@@ -390,4 +393,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/Sumukha53/LeetCode-qns/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/Sumukha53/LeetCode-qns/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
