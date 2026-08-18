@@ -414,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Sumukha53/LeetCode-qns/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Sumukha53/LeetCode-qns/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
