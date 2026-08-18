@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sumukha53/LeetCode-qns/tree/master/0079-word-search) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/Sumukha53/LeetCode-qns/tree/master/0257-binary-tree-paths) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sumukha53/LeetCode-qns/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0208-implement-trie-prefix-tree) |
 | [0460-lfu-cache](https://github.com/Sumukha53/LeetCode-qns/tree/master/0460-lfu-cache) |
 | [0621-task-scheduler](https://github.com/Sumukha53/LeetCode-qns/tree/master/0621-task-scheduler) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sumukha53/LeetCode-qns/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0208-implement-trie-prefix-tree) |
 | [0460-lfu-cache](https://github.com/Sumukha53/LeetCode-qns/tree/master/0460-lfu-cache) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Sumukha53/LeetCode-qns/tree/master/2336-smallest-number-in-infinite-set) |
@@ -398,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/Sumukha53/LeetCode-qns/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/Sumukha53/LeetCode-qns/tree/master/0687-longest-univalue-path) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
