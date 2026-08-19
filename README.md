@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sumukha53/LeetCode-qns/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sumukha53/LeetCode-qns/tree/master/1288-remove-covered-intervals) |
+| [1386-cinema-seat-allocation](https://github.com/Sumukha53/LeetCode-qns/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Sumukha53/LeetCode-qns/tree/master/0460-lfu-cache) |
 | [0621-task-scheduler](https://github.com/Sumukha53/LeetCode-qns/tree/master/0621-task-scheduler) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Sumukha53/LeetCode-qns/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Sumukha53/LeetCode-qns/tree/master/2336-smallest-number-in-infinite-set) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumukha53/LeetCode-qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Sumukha53/LeetCode-qns/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sumukha53/LeetCode-qns/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Sumukha53/LeetCode-qns/tree/master/0621-task-scheduler) |
+| [1386-cinema-seat-allocation](https://github.com/Sumukha53/LeetCode-qns/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
