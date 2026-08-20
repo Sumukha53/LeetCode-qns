@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sumukha53/LeetCode-qns/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/Sumukha53/LeetCode-qns/tree/master/0257-binary-tree-paths) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0131-palindrome-partitioning) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/Sumukha53/LeetCode-qns/tree/master/0486-predict-the-winner) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sumukha53/LeetCode-qns/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Sumukha53/LeetCode-qns/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Sumukha53/LeetCode-qns/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
