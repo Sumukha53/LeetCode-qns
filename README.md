@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumukha53/LeetCode-qns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sumukha53/LeetCode-qns/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Sumukha53/LeetCode-qns/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Sumukha53/LeetCode-qns/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Sumukha53/LeetCode-qns/tree/master/0130-surrounded-regions) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sumukha53/LeetCode-qns/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Sumukha53/LeetCode-qns/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Sumukha53/LeetCode-qns/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Sumukha53/LeetCode-qns/tree/master/0257-binary-tree-paths) |
@@ -444,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Sumukha53/LeetCode-qns/tree/master/0596-classes-with-at-least-5-students) |
 | [1068-product-sales-analysis-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1070-product-sales-analysis-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Sumukha53/LeetCode-qns/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
