@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0897-increasing-order-search-tree) |
 | [0934-shortest-bridge](https://github.com/Sumukha53/LeetCode-qns/tree/master/0934-shortest-bridge) |
 | [0993-cousins-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sumukha53/LeetCode-qns/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sumukha53/LeetCode-qns/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sumukha53/LeetCode-qns/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0897-increasing-order-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1382-balance-a-binary-search-tree) |
 ## Simulation
 |  |
