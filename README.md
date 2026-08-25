@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Sumukha53/LeetCode-qns/tree/master/0401-binary-watch) |
 | [1386-cinema-seat-allocation](https://github.com/Sumukha53/LeetCode-qns/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sumukha53/LeetCode-qns/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Sumukha53/LeetCode-qns/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Sumukha53/LeetCode-qns/tree/master/0401-binary-watch) |
 ## Stack
 |  |
 | ------- |
