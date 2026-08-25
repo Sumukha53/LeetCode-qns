@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sumukha53/LeetCode-qns/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1367-linked-list-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sumukha53/LeetCode-qns/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1382-balance-a-binary-search-tree) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sumukha53/LeetCode-qns/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1367-linked-list-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sumukha53/LeetCode-qns/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1382-balance-a-binary-search-tree) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sumukha53/LeetCode-qns/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1448-count-good-nodes-in-binary-tree) |
