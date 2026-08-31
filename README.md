@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Sumukha53/LeetCode-qns/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sumukha53/LeetCode-qns/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumukha53/LeetCode-qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Sumukha53/LeetCode-qns/tree/master/1765-map-of-highest-peak) |
 | [1834-single-threaded-cpu](https://github.com/Sumukha53/LeetCode-qns/tree/master/1834-single-threaded-cpu) |
 | [1905-count-sub-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1905-count-sub-islands) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukha53/LeetCode-qns/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Sumukha53/LeetCode-qns/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Sumukha53/LeetCode-qns/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1905-count-sub-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sumukha53/LeetCode-qns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
