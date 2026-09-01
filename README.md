@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sumukha53/LeetCode-qns/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumukha53/LeetCode-qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Sumukha53/LeetCode-qns/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumukha53/LeetCode-qns/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Sumukha53/LeetCode-qns/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sumukha53/LeetCode-qns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sumukha53/LeetCode-qns/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumukha53/LeetCode-qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Sumukha53/LeetCode-qns/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumukha53/LeetCode-qns/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Sumukha53/LeetCode-qns/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sumukha53/LeetCode-qns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/Sumukha53/LeetCode-qns/tree/master/1834-single-threaded-cpu) |
 | [1905-count-sub-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1905-count-sub-islands) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukha53/LeetCode-qns/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Sumukha53/LeetCode-qns/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumukha53/LeetCode-qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumukha53/LeetCode-qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Sumukha53/LeetCode-qns/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1905-count-sub-islands) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Sumukha53/LeetCode-qns/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sumukha53/LeetCode-qns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sumukha53/LeetCode-qns/tree/master/0486-predict-the-winner) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sumukha53/LeetCode-qns/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Sumukha53/LeetCode-qns/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumukha53/LeetCode-qns/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sliding Window
 |  |
