@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [0934-shortest-bridge](https://github.com/Sumukha53/LeetCode-qns/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/Sumukha53/LeetCode-qns/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Sumukha53/LeetCode-qns/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sumukha53/LeetCode-qns/tree/master/1288-remove-covered-intervals) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [0934-shortest-bridge](https://github.com/Sumukha53/LeetCode-qns/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/Sumukha53/LeetCode-qns/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Sumukha53/LeetCode-qns/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Sumukha53/LeetCode-qns/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Sumukha53/LeetCode-qns/tree/master/0401-binary-watch) |
+| [1219-path-with-maximum-gold](https://github.com/Sumukha53/LeetCode-qns/tree/master/1219-path-with-maximum-gold) |
 ## Stack
 |  |
 | ------- |
