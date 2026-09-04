@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/Sumukha53/LeetCode-qns/tree/master/1834-single-threaded-cpu) |
 | [1905-count-sub-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1905-count-sub-islands) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukha53/LeetCode-qns/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Sumukha53/LeetCode-qns/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Sumukha53/LeetCode-qns/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumukha53/LeetCode-qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumukha53/LeetCode-qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Sumukha53/LeetCode-qns/tree/master/0621-task-scheduler) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Sumukha53/LeetCode-qns/tree/master/1386-cinema-seat-allocation) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Sumukha53/LeetCode-qns/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
