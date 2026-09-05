@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sumukha53/LeetCode-qns/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0778-swim-in-rising-water](https://github.com/Sumukha53/LeetCode-qns/tree/master/0778-swim-in-rising-water) |
 | [0934-shortest-bridge](https://github.com/Sumukha53/LeetCode-qns/tree/master/0934-shortest-bridge) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sumukha53/LeetCode-qns/tree/master/1019-next-greater-node-in-linked-list) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Sumukha53/LeetCode-qns/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1254-number-of-closed-islands) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumukha53/LeetCode-qns/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Sumukha53/LeetCode-qns/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Sumukha53/LeetCode-qns/tree/master/0460-lfu-cache) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sumukha53/LeetCode-qns/tree/master/1019-next-greater-node-in-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sumukha53/LeetCode-qns/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Doubly-Linked List
@@ -490,11 +492,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Sumukha53/LeetCode-qns/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0897-increasing-order-search-tree) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sumukha53/LeetCode-qns/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumukha53/LeetCode-qns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0654-maximum-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0654-maximum-binary-tree) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sumukha53/LeetCode-qns/tree/master/1019-next-greater-node-in-linked-list) |
 ## Cartesian Tree
 |  |
 | ------- |
