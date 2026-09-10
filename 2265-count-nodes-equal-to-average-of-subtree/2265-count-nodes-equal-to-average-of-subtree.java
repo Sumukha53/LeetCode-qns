@@ -15,24 +15,17 @@
  */
 class Solution {
     public int averageOfSubtree(TreeNode root) {
-        m=new HashMap<>();
-        dfs(root);
         avg(root);
         return ans;
     }
     int ans=0;
-    private int avg(TreeNode root){
-        if(root==null)return 0;
-        int left_sum=root.val+avg(root.left);
-        int right_sum=root.val+avg(root.right);
-        if(root.val==(left_sum+right_sum-root.val)/m.get(root))ans++;
-        return left_sum+right_sum-root.val;
-    }
-    HashMap<TreeNode,Integer>m;
-    private int dfs(TreeNode root){
-        if(root==null)return 0;
-        int temp=1+dfs(root.left)+dfs(root.right);
-        m.put(root,temp);
-        return temp;
+    private int[] avg(TreeNode root){
+        if(root==null)return new int[2];
+        int[] l=avg(root.left);
+        int[] r=avg(root.right);
+        int[] left=new int[]{root.val+l[0],1+l[1]};
+        int[] right=new int[]{root.val+r[0],1+r[1]};
+        if(root.val==(left[0]+right[0]-root.val)/(left[1]+right[1]-1))ans++;
+        return new int[]{left[0]+right[0]-root.val,left[1]+right[1]-1};
     }
 }
