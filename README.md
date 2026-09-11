@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumukha53/LeetCode-qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Sumukha53/LeetCode-qns/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumukha53/LeetCode-qns/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumukha53/LeetCode-qns/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Sumukha53/LeetCode-qns/tree/master/3310-remove-methods-from-project) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sumukha53/LeetCode-qns/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sumukha53/LeetCode-qns/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Sumukha53/LeetCode-qns/tree/master/1288-remove-covered-intervals) |
 | [1834-single-threaded-cpu](https://github.com/Sumukha53/LeetCode-qns/tree/master/1834-single-threaded-cpu) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumukha53/LeetCode-qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
