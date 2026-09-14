@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sumukha53/LeetCode-qns/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/Sumukha53/LeetCode-qns/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumukha53/LeetCode-qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Sumukha53/LeetCode-qns/tree/master/0463-island-perimeter) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/Sumukha53/LeetCode-qns/tree/master/0386-lexicographical-numbers) |
 ## Iterator
 |  |
 | ------- |
