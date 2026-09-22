@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Sumukha53/LeetCode-qns/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Sumukha53/LeetCode-qns/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sumukha53/LeetCode-qns/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Sumukha53/LeetCode-qns/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sumukha53/LeetCode-qns/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/Sumukha53/LeetCode-qns/tree/master/0934-shortest-bridge) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sumukha53/LeetCode-qns/tree/master/1019-next-greater-node-in-linked-list) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Sumukha53/LeetCode-qns/tree/master/1110-delete-nodes-and-return-forest) |
 | [1219-path-with-maximum-gold](https://github.com/Sumukha53/LeetCode-qns/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Sumukha53/LeetCode-qns/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Sumukha53/LeetCode-qns/tree/master/1260-shift-2d-grid) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Sumukha53/LeetCode-qns/tree/master/0752-open-the-lock) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Sumukha53/LeetCode-qns/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Sumukha53/LeetCode-qns/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
