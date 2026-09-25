@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0919-complete-binary-tree-inserter](https://github.com/Sumukha53/LeetCode-qns/tree/master/0919-complete-binary-tree-inserter) |
 | [0934-shortest-bridge](https://github.com/Sumukha53/LeetCode-qns/tree/master/0934-shortest-bridge) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Sumukha53/LeetCode-qns/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0993-cousins-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sumukha53/LeetCode-qns/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Sumukha53/LeetCode-qns/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Sumukha53/LeetCode-qns/tree/master/0401-binary-watch) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Sumukha53/LeetCode-qns/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1219-path-with-maximum-gold](https://github.com/Sumukha53/LeetCode-qns/tree/master/1219-path-with-maximum-gold) |
 ## Stack
 |  |
