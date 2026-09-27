@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sumukha53/LeetCode-qns/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0752-open-the-lock](https://github.com/Sumukha53/LeetCode-qns/tree/master/0752-open-the-lock) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sumukha53/LeetCode-qns/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sumukha53/LeetCode-qns/tree/master/3498-reverse-degree-of-a-string) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0897-increasing-order-search-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sumukha53/LeetCode-qns/tree/master/1019-next-greater-node-in-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -688,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sumukha53/LeetCode-qns/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
