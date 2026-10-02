@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumukha53/LeetCode-qns/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Sumukha53/LeetCode-qns/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0208-implement-trie-prefix-tree) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumukha53/LeetCode-qns/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0131-palindrome-partitioning) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sumukha53/LeetCode-qns/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Sumukha53/LeetCode-qns/tree/master/0051-n-queens) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Queue
 |  |
