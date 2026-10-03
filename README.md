@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumukha53/LeetCode-qns/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/Sumukha53/LeetCode-qns/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0208-implement-trie-prefix-tree) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumukha53/LeetCode-qns/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/0032-longest-valid-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Sumukha53/LeetCode-qns/tree/master/0131-palindrome-partitioning) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumukha53/LeetCode-qns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sumukha53/LeetCode-qns/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Sumukha53/LeetCode-qns/tree/master/0173-binary-search-tree-iterator) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Queue
 |  |
