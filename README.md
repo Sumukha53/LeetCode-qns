@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sumukha53/LeetCode-qns/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0752-open-the-lock](https://github.com/Sumukha53/LeetCode-qns/tree/master/0752-open-the-lock) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumukha53/LeetCode-qns/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sumukha53/LeetCode-qns/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumukha53/LeetCode-qns/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sumukha53/LeetCode-qns/tree/master/1019-next-greater-node-in-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumukha53/LeetCode-qns/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumukha53/LeetCode-qns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Queue
 |  |
