@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Sumukha53/LeetCode-qns/tree/master/0563-binary-tree-tilt) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Sumukha53/LeetCode-qns/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Sumukha53/LeetCode-qns/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/Sumukha53/LeetCode-qns/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/Sumukha53/LeetCode-qns/tree/master/0687-longest-univalue-path) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Sumukha53/LeetCode-qns/tree/master/0563-binary-tree-tilt) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Sumukha53/LeetCode-qns/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Sumukha53/LeetCode-qns/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/Sumukha53/LeetCode-qns/tree/master/0687-longest-univalue-path) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sumukha53/LeetCode-qns/tree/master/0563-binary-tree-tilt) |
 | [0623-add-one-row-to-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Sumukha53/LeetCode-qns/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/Sumukha53/LeetCode-qns/tree/master/0687-longest-univalue-path) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Sumukha53/LeetCode-qns/tree/master/0508-most-frequent-subtree-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sumukha53/LeetCode-qns/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Sumukha53/LeetCode-qns/tree/master/0621-task-scheduler) |
+| [0652-find-duplicate-subtrees](https://github.com/Sumukha53/LeetCode-qns/tree/master/0652-find-duplicate-subtrees) |
 | [0752-open-the-lock](https://github.com/Sumukha53/LeetCode-qns/tree/master/0752-open-the-lock) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
