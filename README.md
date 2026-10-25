@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sumukha53/LeetCode-qns/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1367-linked-list-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sumukha53/LeetCode-qns/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sumukha53/LeetCode-qns/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1367-linked-list-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sumukha53/LeetCode-qns/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sumukha53/LeetCode-qns/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1367-linked-list-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1609-even-odd-tree) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/Sumukha53/LeetCode-qns/tree/master/0486-predict-the-winner) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sumukha53/LeetCode-qns/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Sumukha53/LeetCode-qns/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumukha53/LeetCode-qns/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Sumukha53/LeetCode-qns/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Simulation
@@ -640,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Sumukha53/LeetCode-qns/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sumukha53/LeetCode-qns/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sumukha53/LeetCode-qns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Trie
 |  |
 | ------- |
