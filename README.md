@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Sumukha53/LeetCode-qns/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sumukha53/LeetCode-qns/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Sumukha53/LeetCode-qns/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Sumukha53/LeetCode-qns/tree/master/1765-map-of-highest-peak) |
 | [1834-single-threaded-cpu](https://github.com/Sumukha53/LeetCode-qns/tree/master/1834-single-threaded-cpu) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Sumukha53/LeetCode-qns/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Sumukha53/LeetCode-qns/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sumukha53/LeetCode-qns/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukha53/LeetCode-qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumukha53/LeetCode-qns/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sumukha53/LeetCode-qns/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Sumukha53/LeetCode-qns/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Sumukha53/LeetCode-qns/tree/master/3904-smallest-stable-index-ii) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sumukha53/LeetCode-qns/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sumukha53/LeetCode-qns/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Sumukha53/LeetCode-qns/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sumukha53/LeetCode-qns/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Sumukha53/LeetCode-qns/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumukha53/LeetCode-qns/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sliding Window
